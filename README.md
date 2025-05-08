@@ -23,7 +23,7 @@ As a data analyst, I leveraged Power BI to perform an end-to-end analysis of the
 
 * Booking platforms
 
-*Identified trends in weekday vs weekend performance to optimize pricing strategies.
+* Identified trends in weekday vs weekend performance to optimize pricing strategies.
 
 3. Booking Insights
 * Uncovered patterns in booking channels such as logtrip, journey, direct_online, etc.
