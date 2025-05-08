@@ -6,11 +6,11 @@ AtliQ Grand is a five-star hotel chain operating in major Indian cities includin
 As a data analyst, I leveraged Power BI to perform an end-to-end analysis of the company’s performance, booking behavior, and revenue drivers, culminating in an interactive dashboard.
 # Key Deliverables
 1. Performance Analysis
-Visualized core KPIs: Revenue, RevPAR (Revenue Per Available Room), Occupancy Rate, and DSRN (Daily Sold Room Nights).
+* Visualized core KPIs: Revenue, RevPAR (Revenue Per Available Room), Occupancy Rate, and DSRN (Daily Sold Room Nights).
 
-Delivered insights into Average Daily Rate (ADR) and Realization % to understand room pricing effectiveness.
+* Delivered insights into Average Daily Rate (ADR) and Realization % to understand room pricing effectiveness.
 
-Incorporated guest satisfaction indicators like Average Rating and Cancellation % for service quality benchmarking.
+* Incorporated guest satisfaction indicators like Average Rating and Cancellation % for service quality benchmarking.
 
 2. Revenue Breakdown
 Analyzed revenue across:
