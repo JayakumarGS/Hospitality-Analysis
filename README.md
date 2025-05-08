@@ -13,47 +13,47 @@ As a data analyst, I leveraged Power BI to perform an end-to-end analysis of the
 * Incorporated guest satisfaction indicators like Average Rating and Cancellation % for service quality benchmarking.
 
 2. Revenue Breakdown
-Analyzed revenue across:
+* Analyzed revenue across:
 
-Different cities
+* Different cities
 
-Room types
+* Room types
 
-Hotel categories (Luxury vs Business)
+* Hotel categories (Luxury vs Business)
 
-Booking platforms
+* Booking platforms
 
-Identified trends in weekday vs weekend performance to optimize pricing strategies.
+*Identified trends in weekday vs weekend performance to optimize pricing strategies.
 
 3. Booking Insights
-Uncovered patterns in booking channels such as logtrip, journey, direct_online, etc.
+* Uncovered patterns in booking channels such as logtrip, journey, direct_online, etc.
 
-Assessed platform-wise realization % and ADR to improve channel efficiency.
+* Assessed platform-wise realization % and ADR to improve channel efficiency.
 
-Provided suggestions to minimize cancellations and enhance revenue streams.
+* Provided suggestions to minimize cancellations and enhance revenue streams.
 
 
 # Skills and Tools Utilized
-Power BI: For data visualization and dashboard development.
+* Power BI: For data visualization and dashboard development.
 
-DAX (Data Analysis Expressions): Used for custom metrics, time-intelligence functions, and advanced calculations.
+* DAX (Data Analysis Expressions): Used for custom metrics, time-intelligence functions, and advanced calculations.
 
-Data Modeling: Created relationships between tables for flexible analysis.
+* Data Modeling: Created relationships between tables for flexible analysis.
 
-Hospitality KPIs: Strong understanding of RevPAR, ADR, DSRN, DBRN, and occupancy dynamics.
+* Hospitality KPIs: Strong understanding of RevPAR, ADR, DSRN, DBRN, and occupancy dynamics.
 
-Presentation & Storytelling: Designed a visually engaging, user-friendly interface for stakeholders.
+* Presentation & Storytelling: Designed a visually engaging, user-friendly interface for stakeholders.
 
 # Outcomes
-Delivered an interactive dashboard providing a real-time snapshot of operational and financial performance.
+* Delivered an interactive dashboard providing a real-time snapshot of operational and financial performance.
 
-Empowered stakeholders with the ability to:
+* Empowered stakeholders with the ability to:
 
-Monitor trends by month, week, city, and room type
+* Monitor trends by month, week, city, and room type
 
-Identify top and underperforming properties
+* Identify top and underperforming properties
 
-Make data-driven decisions to improve profitability and efficiency
+* Make data-driven decisions to improve profitability and efficiency
 
 
 # Live Dashboard
